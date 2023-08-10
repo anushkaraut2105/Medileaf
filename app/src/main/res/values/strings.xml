@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Medileaf</string>
+    <string name="sample_text">Unknown</string>
+    <string name="sample_long_text">This is an unknown text</string>
+    <string name="background_content_desc">This is a background</string>
+
+    <string name="camera_desc">Capture a photo</string>
+    <string name="upload_desc">Upload a photo</string>
+
+    <string name="status_desc">Status of image upload icon</string>
+    <string name="image_success">Image uploaded successfully</string>
+    <string name="image_failure">Failed to load</string>
+
+    <string name="result_desc">Output from detection</string>
+
+    <string name="leaf_description">Leaf Description</string>
+</resources>
